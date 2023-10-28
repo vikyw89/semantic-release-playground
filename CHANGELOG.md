@@ -2,6 +2,15 @@
 
 
 
+## v0.0.1 (2023-10-28)
+
+### :bug:
+
+* :bug: Bug
+
+bug ([`8ac0e8f`](https://github.com/vikyw89/semantic-release-playground/commit/8ac0e8f1e9d96f724533fefd84b38a9c374de50d))
+
+
 ## v0.0.0 (2023-10-28)
 
 ### Other
