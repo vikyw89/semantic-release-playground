@@ -2,6 +2,19 @@
 
 
 
+## v0.2.0 (2023-10-28)
+
+### Feature
+
+* feat(main.py): add new endpoint /hello to return a greeting message ([`f190017`](https://github.com/vikyw89/semantic-release-playground/commit/f19001721c38ab0406d29428577c864832e0f16e))
+
+### Unknown
+
+* Merge pull request #2 from vikyw89/1-test-issue
+
+feat(main.py): add new endpoint /hello to return a greeting message ([`0bb9e26`](https://github.com/vikyw89/semantic-release-playground/commit/0bb9e26ee071aef8de2d4e1c28a5141af23e5c89))
+
+
 ## v0.1.0 (2023-10-28)
 
 ### Chore
