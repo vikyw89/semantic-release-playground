@@ -2,9 +2,36 @@
 
 
 
+## v0.1.0 (2023-10-28)
+
+### Chore
+
+* chore(main.py): remove unnecessary main.py file
+
+The main.py file was deleted as it contained unnecessary code that was not being used in the project. Removing this file helps to keep the codebase clean and reduces clutter. ([`7586b82`](https://github.com/vikyw89/semantic-release-playground/commit/7586b824d35a78e6a4d78a997a7fc4bf840775df))
+
+* chore(pyproject.toml): switch commit_parser from &#34;emoji&#34; to &#34;angular&#34; for more conventional commit messages
+feat(pyproject.toml): update allowed_tags in commit_parser_options to include a comprehensive list of conventional commit types ([`0d55d7b`](https://github.com/vikyw89/semantic-release-playground/commit/0d55d7bed6793899caaf122fc7cb34da6dc6b001))
+
+### Feature
+
+* feat(main.py): add basic FastAPI routes for root and item endpoints
+
+The main.py file was added with basic routes for the root (&#34;/&#34;) and item (&#34;/items/{item_id}&#34;) endpoints using the FastAPI framework. The root endpoint returns a simple JSON response with the message &#34;Hello World&#34;, while the item endpoint returns a JSON response with the provided item_id and an optional query parameter &#34;q&#34;. ([`c98e4b4`](https://github.com/vikyw89/semantic-release-playground/commit/c98e4b434021bc73a4191e8a5f04b1e44b5f57c3))
+
+### Unknown
+
+* Merge branch &#39;alpha&#39; of https://github.com/vikyw89/semantic-release-playground into alpha ([`4d72fb2`](https://github.com/vikyw89/semantic-release-playground/commit/4d72fb2a1b0da85b1f561d8fae4cdabb76bd96d1))
+
+* ✨ feat(main.py): add FastAPI endpoints for root and item with optional query parameter
+📦 chore(pyproject.toml): add fastapi as a dependency to enable FastAPI usage in the project ([`e1dbfb8`](https://github.com/vikyw89/semantic-release-playground/commit/e1dbfb8a2b2a5e8a58ceff352656b8da40763a8a))
+
+* 📦 chore(main.py): add new file main.py to the project ([`e51d624`](https://github.com/vikyw89/semantic-release-playground/commit/e51d624c9fd0f904004600735361cb50e6ec6552))
+
+
 ## v0.0.1 (2023-10-28)
 
-### :bug:
+### Unknown
 
 * :bug: Bug
 
@@ -13,7 +40,7 @@ bug ([`8ac0e8f`](https://github.com/vikyw89/semantic-release-playground/commit/8
 
 ## v0.0.0 (2023-10-28)
 
-### Other
+### Unknown
 
 * 📦 chore(semver): add semver package and tests package ([`41b656f`](https://github.com/vikyw89/semantic-release-playground/commit/41b656f0dffa4895ce1a867686e16e8e226e52b5))
 
